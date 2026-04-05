@@ -1,39 +1,13 @@
 [
   {
-    "title": "นางฟ้าของสามี",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/1ba56e79db4a0d1134e0d37e474dacce.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1098",
+    "title": "ชั่วฝันเปลี่ยนชะตา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0af8204df2de05e2e8b5b2bf027c9f91.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1125",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/85324cb3-560e-4c97-9976-0ea675bfb770/playlist.m3u8"
-      }
-    ],
-    "group": "เกิดใหม่"
-  },
-  {
-    "title": "เกิดใหม่วันแต่งงานตบหน้าคนชั่ว",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/d0800bd6d827e7c2a2ba41e68c0472f9.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1090",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/8f957841-299b-4ab2-a956-14e3e155f69e/playlist.m3u8"
-      }
-    ],
-    "group": "เกิดใหม่"
-  },
-  {
-    "title": "พี่่สาวเกิดใหม่ตัดขาดน้องชาย",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/8d36d1f815262d85cfd484d1c69529b2.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1089",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b7de0f22-1081-481c-857a-af6ba80f6f9b/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/86b75222-6ea9-4ad0-ad5e-e5e5dc961021/playlist.m3u8"
       }
     ],
     "group": "เกิดใหม่"
