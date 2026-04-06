@@ -1,39 +1,26 @@
 [
   {
-    "title": "ลูกบ้านเราไม่ได้จนจริงๆ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ec34947fe413d0a799d6d72747f19e26.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1124",
+    "title": "คัมภีร์ปลอมแต่ไร้เทียมทาน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/25679ccee779cc766c7b517d9cbf3f2b.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1133",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/bdf4a9d2-350d-4c0b-a064-9d4c95e7b8e4/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e8c62ffc-3e81-49ae-9662-888009ae303f/playlist.m3u8"
       }
     ],
     "group": "พลิกเกม"
   },
   {
-    "title": "เลี้ยงหมูได้แต่งเจ้านาย",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/31f8a719641da6f415daca2a066a2437.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1123",
+    "title": "เจ้าสาวมิ้นต์พิษ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/620f63786226861945d83e9872c131ee.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1126",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1f28b6a1-dae1-46b1-9fae-f114fed44781/playlist.m3u8"
-      }
-    ],
-    "group": "พลิกเกม"
-  },
-  {
-    "title": "อนุบาลฉบับตัวแม่",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a06dfce20abe3fc248294ef7c67b263e.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1122",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/a6e6da3c-e7d8-4b6a-83ab-b681ea819df2/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3ef7a511-25c1-4a13-a6e4-1d2d14be9ae6/playlist.m3u8"
       }
     ],
     "group": "พลิกเกม"
