@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "title": "นักพรตคนนี้อย่ามาแหย็ม",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/5d0f47a22696f75dc989d21ece511df2.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1143",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c40b34b9-649d-44bc-a689-628202b7232d/playlist.m3u8"
+      }
+    ],
+    "group": "เทพเซียน"
+  }
+]

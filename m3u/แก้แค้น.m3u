@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="undefined" group-title="แก้แค้น",คู่หมั้นทรยศจูงมือรัชทายาท
-https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/fa48ec55-04d0-434f-988c-2754207a6c66/playlist.m3u8
+#EXTINF:-1 tvg-logo="undefined" group-title="แก้แค้น",รหัสแค้นใต้เงาบุญคุณ
+https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1cfe4f77-7b83-4ac5-9a71-85f93f61a47b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="undefined" group-title="แก้แค้น",วิวาห์ที่ซ่อนรัก
+https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/6042c4b3-75be-4b39-b391-07a706102cfb/playlist.m3u8
 

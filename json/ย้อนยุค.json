@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "title": "คุณชายสำราญผู้เร้นคมภาค2",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/354b8f250e8cd8ebb38fba297b145bf1.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1147",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/562d84d8-990b-46e7-8ddc-43ff5bf2d5b0/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "ครอบครองมรสุมเป็นครั้งสุดท้าย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4cadd6689c3071296a98636b72ffc7f6.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1145",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/2b31669b-aaee-46bf-b6af-a10c81dac2dd/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  }
+]

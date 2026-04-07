@@ -1,13 +1,26 @@
 [
   {
-    "title": "คู่หมั้นทรยศจูงมือรัชทายาท",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/58fd27c004eb124efdf51962cda3af6c.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1130",
+    "title": "รหัสแค้นใต้เงาบุญคุณ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/49a2c8dbf80beaef817a0a6d3cb13877.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1138",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/fa48ec55-04d0-434f-988c-2754207a6c66/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1cfe4f77-7b83-4ac5-9a71-85f93f61a47b/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
+  },
+  {
+    "title": "วิวาห์ที่ซ่อนรัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/307f1f5be5a84006338460be332da46d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1136",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/6042c4b3-75be-4b39-b391-07a706102cfb/playlist.m3u8"
       }
     ],
     "group": "แก้แค้น"

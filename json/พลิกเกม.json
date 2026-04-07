@@ -1,26 +1,39 @@
 [
   {
-    "title": "คัมภีร์ปลอมแต่ไร้เทียมทาน",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/25679ccee779cc766c7b517d9cbf3f2b.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1133",
+    "title": "กัปตันจิ๋ว9ขวบเหินฟ้าท้าวิกฤต",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f9e5b90da275937619b3cb999d54c352.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1146",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e8c62ffc-3e81-49ae-9662-888009ae303f/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/874fb18b-2313-4025-9ddb-65e4caf68ddb/playlist.m3u8"
       }
     ],
     "group": "พลิกเกม"
   },
   {
-    "title": "เจ้าสาวมิ้นต์พิษ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/620f63786226861945d83e9872c131ee.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1126",
+    "title": "เดิมพันชีวิตฟื้นจากนิทรา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/be9ff0517fea7b4d6516c8940e2af29d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1139",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3ef7a511-25c1-4a13-a6e4-1d2d14be9ae6/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f13b10b6-a712-489a-9dc3-a0c672d91e66/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ระวังหน่อยฉันคือบอส",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/2a030f780b6e61809b9e4d4e0ff7d30b.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1135",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/237ff89f-d348-4ce0-8fe7-8a27e4b6c96c/playlist.m3u8"
       }
     ],
     "group": "พลิกเกม"
