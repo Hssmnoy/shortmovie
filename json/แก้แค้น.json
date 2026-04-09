@@ -1,39 +1,13 @@
 [
   {
-    "title": "มงกุฎปลอมของจอมปลอมต้องเปลี่ยนมือในที่สุด",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/1e35d3b3d2bdd0e3c387632f9cf73dbc.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1154",
+    "title": "ชีวิตที่พลิกผัน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/78a3cfb8a8eb611c83a83084928e0a69.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1182",
     "servers": [
       {
         "name": "M3U8",
         "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/4fa80d13-6273-47e7-9e00-8a5561a059b3/playlist.m3u8"
-      }
-    ],
-    "group": "แก้แค้น"
-  },
-  {
-    "title": "วันหมั้นเดือดไลฟ์สดแฉชู้",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0b8b9c4d11e49ba23839c2b7edbae076.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1153",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/96bf93ac-efac-4fac-ac45-a8914768775c/playlist.m3u8"
-      }
-    ],
-    "group": "แก้แค้น"
-  },
-  {
-    "title": "ทายาทอัจฉริยะเกิดมาเพื่อชัยชนะ",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/8892aaab32c664fafd37ddcdd7b53956.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1148",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e94108b2-e267-4344-afca-d9861fdd0914/playlist.m3u8"
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/351f6750-8f0b-4a5c-853b-6723345fd768/playlist.m3u8"
       }
     ],
     "group": "แก้แค้น"

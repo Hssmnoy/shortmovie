@@ -1,4 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="undefined" group-title="ข้ามมิติ",วีรบุรุษไร้พรมแดน
-https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1b5d1b65-a2b4-4d3b-b273-adced50c392f/playlist.m3u8
+#EXTINF:-1 tvg-logo="undefined" group-title="ข้ามมิติ",คุณแม่ยมทูตสู้เพื่อลูก
+https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/19482019-96e1-4730-9c72-d9ca19fb759f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="undefined" group-title="ข้ามมิติ",ทะลุมิติพัฒนาแผ่นดิน
+https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/28925a87-dff7-4aa4-8b38-3d7245c1cd6a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="undefined" group-title="ข้ามมิติ",คู่มือปั้นจักรพรรดินี
+https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/6ad3365c-3d59-43d2-b595-14b92d23a06a/playlist.m3u8
 
