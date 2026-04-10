@@ -207,52 +207,6 @@
     ]
   },
   {
-    "title": "uk-btsport2hd",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/uk-btsport2hd.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "uk-btsport3hd",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/uk-btsport3hd.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
     "title": "au-fox501",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/au-fox501.png",
@@ -1031,29 +985,6 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-ziggosport1_720/chunks.m3u8"
-      }
-    ]
-  },
-  {
-    "title": "nl-ziggosport2",
-    "group": "Dooball",
-    "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport2.png",
-    "servers": [
-      {
-        "name": "Main",
-        "url": "https://love.sikoyo3159.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 1",
-        "url": "https://love.tivov68423.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 2",
-        "url": "https://love.tecobo5568.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8"
-      },
-      {
-        "name": "Backup 3",
-        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8"
       }
     ]
   },
@@ -2162,6 +2093,29 @@
     ]
   },
   {
+    "title": "sd-filmasia",
+    "group": "Dooball",
+    "logo": "https://api.bananamuffin.org/images/png/sd-filmasia.png",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 1",
+        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 2",
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 3",
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
     "title": "sd-moviehits",
     "group": "Dooball",
     "logo": "https://api.bananamuffin.org/images/png/sd-moviehits.png",
@@ -2181,6 +2135,29 @@
       {
         "name": "Backup 3",
         "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "sd-series",
+    "group": "Dooball",
+    "logo": "https://api.bananamuffin.org/images/png/sd-series.png",
+    "servers": [
+      {
+        "name": "Main",
+        "url": "https://love.sikoyo3159.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 1",
+        "url": "https://love.tivov68423.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 2",
+        "url": "https://love.tecobo5568.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
+      },
+      {
+        "name": "Backup 3",
+        "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
       }
     ]
   },
