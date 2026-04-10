@@ -1,11 +1,12 @@
 {
   "name": "Dooball66",
-  "author": "Dooball66 4/10/2026, 12:20:18 PM",
+  "author": "Dooball66 10/04/2569 19:31:59",
   "image": "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
+  "url": "https://raw.githubusercontent.com/nongakka/shortmovie/main/playlist_wiseplay.json",
   "groups": [
     {
       "name": "🏟️ กีฬา",
-      "image": "https://api.bananamuffin.org/images/png/epl-3.png",
+      "image": "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
       "groups": [
         {
           "name": "epl-3",
@@ -6851,7 +6852,7 @@
     },
     {
       "name": "📺 ทั่วไป",
-      "image": "https://api.bananamuffin.org/images/png/hd-monobkp.png",
+      "image": "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
       "groups": [
         {
           "name": "hd-monobkp",
