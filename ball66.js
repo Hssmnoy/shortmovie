@@ -70,55 +70,65 @@ async function main() {
     "utf-8"
   );
 
-  // ---------------- Wiseplay Nested Groups ----------------
-  const wiseplay = {
-    name: "Dooball66",
-    author: "Dooball66 " + new Date()
-    image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
-    url: "https://raw.githubusercontent.com/nongakka/shortmovie/main/playlist_wiseplay.json"
-    groups: []
+ // ---------------- Wiseplay Nested Groups ----------------
+const wiseplay = {
+  name: "Dooball66",
+  author:
+  "Dooball66 " +
+  new Date().toLocaleString("th-TH", {
+    timeZone: "Asia/Bangkok",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit"
+  }),
+  image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
+  url: "https://raw.githubusercontent.com/nongakka/shortmovie/main/playlist_wiseplay.json",
+  groups: []
+};
+
+const groupMap = {};
+
+playlist.forEach(ch => {
+  if (!groupMap[ch.group]) {
+    groupMap[ch.group] = {
+      name: ch.group,
+      image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
+      groups: []
+    };
+  }
+
+  const matchGroup = {
+    name: ch.title,
+    image: ch.logo,
+    stations: []
   };
 
-  const groupMap = {};
-
-  playlist.forEach(ch => {
-    if (!groupMap[ch.group]) {
-      groupMap[ch.group] = {
-        name: ch.group,
-        image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
-        groups: []
-      };
-    }
-
-    const matchGroup = {
-      name: ch.title,
+  ch.servers.forEach((server, i) => {
+    matchGroup.stations.push({
+      name: i === 0 ? "🟢 MAIN" : `🟡 BACKUP ${i}`,
+      info: ch.title,
       image: ch.logo,
-      stations: []
-    };
-
-    ch.servers.forEach((server, i) => {
-      matchGroup.stations.push({
-        name: i === 0 ? "🟢 MAIN" : `🟡 BACKUP ${i}`,
-        info: ch.title,
-        image: ch.logo,
-        url: server.url,
-        userAgent:
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
-        referer: "https://embed-xs.bananacake.org/",
-        isHost: false
-      });
+      url: server.url,
+      userAgent:
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
+      referer: "https://embed-xs.bananacake.org/",
+      isHost: false
     });
-
-    groupMap[ch.group].groups.push(matchGroup);
   });
 
-  wiseplay.groups = Object.values(groupMap);
+  groupMap[ch.group].groups.push(matchGroup);
+});
 
-  fs.writeFileSync(
-    "playlist_wiseplay.json",
-    JSON.stringify(wiseplay, null, 2),
-    "utf-8"
-  );
+wiseplay.groups = Object.values(groupMap);
+
+fs.writeFileSync(
+  "playlist_wiseplay.json",
+  JSON.stringify(wiseplay, null, 2),
+  "utf-8"
+);
 
   // ---------------- M3U ----------------
   let m3u = "#EXTM3U\n";
