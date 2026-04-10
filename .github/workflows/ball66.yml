@@ -33,7 +33,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add playlist.json playlist.m3u
+          git add playlist.json playlist.m3u playlist_wiseplay.json
 
           # 🔥 เช็คว่ามีการเปลี่ยนจริงไหม
           if git diff --cached --quiet; then
