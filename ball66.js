@@ -73,8 +73,9 @@ async function main() {
   // ---------------- Wiseplay Nested Groups ----------------
   const wiseplay = {
     name: "Dooball66",
-    author: "Dooball66 " + new Date().toLocaleString(),
+    author: "Dooball66 " + new Date()
     image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
+    url: "https://raw.githubusercontent.com/nongakka/shortmovie/main/playlist_wiseplay.json"
     groups: []
   };
 
@@ -84,7 +85,7 @@ async function main() {
     if (!groupMap[ch.group]) {
       groupMap[ch.group] = {
         name: ch.group,
-        image: ch.logo,
+        image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
         groups: []
       };
     }
