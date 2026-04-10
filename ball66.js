@@ -86,6 +86,59 @@ async function main() {
     "utf-8"
   );
 
+  // ---------------- Wiseplay Nested Groups ----------------
+const wiseplay = {
+  name: "Dooball66",
+  author: "Dooball66 " + new Date().toLocaleString(),
+  image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
+  groups: []
+};
+
+// 🔥 group ตาม category (เช่น Dooball)
+const groupMap = {};
+
+playlist.forEach(ch => {
+  if (!groupMap[ch.group]) {
+    groupMap[ch.group] = {
+      name: ch.group,
+      image: ch.logo,
+      groups: []
+    };
+  }
+
+  // 🔥 match = 1 channel
+  const matchGroup = {
+    name: ch.title,
+    image: ch.logo,
+    stations: []
+  };
+
+  ch.servers.forEach((server, i) => {
+    matchGroup.stations.push({
+      name: i === 0 ? "🟢 MAIN" : `🟡 BACKUP ${i}`,
+      info: ch.title,
+      image: ch.logo,
+      url: server.url,
+      userAgent:
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
+      referer: "https://embed-xs.bananacake.org/",
+      isHost: false // 🔥 m3u8 ต้อง false
+    });
+  });
+
+  groupMap[ch.group].groups.push(matchGroup);
+});
+
+// 🔥 แปลงเป็น array
+wiseplay.groups = Object.values(groupMap);
+
+// 🔥 save file
+fs.writeFileSync(
+  "playlist_wiseplay.json",
+  JSON.stringify(wiseplay, null, 2),
+  "utf-8"
+);
+  
   // ---------------- M3U ----------------
   let m3u = "#EXTM3U\n";
 
