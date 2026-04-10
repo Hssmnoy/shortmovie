@@ -5,13 +5,13 @@ const fs = require("fs");
 const BASES = [
   "https://love.sikoyo3159.workers.dev",
   "https://love.tivov68423.workers.dev",
-  "https://love.tecobo5568.workers.dev",
-  "https://love.uh6wzyncw9.workers.dev"
+  "https://love.tecobo5568.workers.dev"
 ];
 
+// 🔥 แยก 2 URL
 const urls = [
-  "https://embed.bananacake.org/dooball66v2/ajax_channels.php?api_key=hmcb4rf66f&sportsonly=1",
-  "https://embed.bananacake.org/dooball66v2/ajax_channels.php?api_key=hmcb4rf66f"
+  "https://embed.bananacake.org/dooball66v2/ajax_channels.php?api_key=hmcb4rf66f&sportsonly=1", // กีฬา
+  "https://embed.bananacake.org/dooball66v2/ajax_channels.php?api_key=hmcb4rf66f" // ทั้งหมด
 ];
 
 const regex = /src\s*=\s*'([^']+)'.*?loadPlayer\('([^']+)'\)/gs;
@@ -19,7 +19,12 @@ const regex = /src\s*=\s*'([^']+)'.*?loadPlayer\('([^']+)'\)/gs;
 async function main() {
   const map = {};
 
-  for (const url of urls) {
+  for (let i = 0; i < urls.length; i++) {
+    const url = urls[i];
+
+    // 🏷️ แยกกลุ่ม
+    const groupName = i === 0 ? "🏟️ กีฬา" : "📺 ทั่วไป";
+
     const res = await axios.get(url);
 
     let match;
@@ -27,6 +32,7 @@ async function main() {
       const logo = match[1];
       const id = match[2];
 
+      // 🔥 กันซ้ำ (เอาจาก sport ก่อน)
       if (!map[id]) {
         console.log("⏳", id);
 
@@ -35,9 +41,9 @@ async function main() {
 
         // 🔥 ไม่เช็ค → สร้างทุกลิงก์
         qualities.forEach(q => {
-          BASES.forEach((base, i) => {
+          BASES.forEach((base, idx) => {
             servers.push({
-              name: `${q.replace("_", "")} ${i === 0 ? "Main" : `Backup ${i}`}`,
+              name: `${q.replace("_", "")} ${idx === 0 ? "Main" : `Backup ${idx}`}`,
               url: `${base}/lx-origin/${id}${q}/chunks.m3u8`
             });
           });
@@ -45,7 +51,7 @@ async function main() {
 
         map[id] = {
           title: id,
-          group: "Dooball",
+          group: groupName,
           logo: logo,
           servers: servers
         };
@@ -66,34 +72,44 @@ async function main() {
 
   // ---------------- Wiseplay Nested Groups ----------------
   const wiseplay = {
-  name: "Dooball66",
-  author: "Dooball66 " + new Date().toLocaleString(),
-  image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
-  groups: []
-};
-
-playlist.forEach(ch => {
-  const matchGroup = {
-    name: ch.title,
-    image: ch.logo,
-    stations: []
+    name: "Dooball66",
+    author: "Dooball66 " + new Date().toLocaleString(),
+    image: "https://dooball66ad.com/wp-content/uploads/2020/07/cropped-logo.png",
+    groups: []
   };
 
-  ch.servers.forEach((server, i) => {
-    matchGroup.stations.push({
-      name: i === 0 ? "🟢 MAIN" : `🟡 BACKUP ${i}`,
-      info: ch.title,
-      image: ch.logo,
-      url: server.url,
-      userAgent:
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
-      referer: "https://embed-xs.bananacake.org/",
-      isHost: false
-    });
-  });
+  const groupMap = {};
 
-  wiseplay.groups.push(matchGroup);
-});
+  playlist.forEach(ch => {
+    if (!groupMap[ch.group]) {
+      groupMap[ch.group] = {
+        name: ch.group,
+        image: ch.logo,
+        groups: []
+      };
+    }
+
+    const matchGroup = {
+      name: ch.title,
+      image: ch.logo,
+      stations: []
+    };
+
+    ch.servers.forEach((server, i) => {
+      matchGroup.stations.push({
+        name: i === 0 ? "🟢 MAIN" : `🟡 BACKUP ${i}`,
+        info: ch.title,
+        image: ch.logo,
+        url: server.url,
+        userAgent:
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
+        referer: "https://embed-xs.bananacake.org/",
+        isHost: false
+      });
+    });
+
+    groupMap[ch.group].groups.push(matchGroup);
+  });
 
   wiseplay.groups = Object.values(groupMap);
 
