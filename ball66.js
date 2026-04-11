@@ -6,7 +6,22 @@ const BASES = [
   
   "https://love.verowo7190.workers.dev",
   "https://love.bebin98399.workers.dev"
-  
+
+//https://love.sayob28681.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.bebin98399.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.tivov68423.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.tivov68423.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.pifipa2974.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love-test.fkuqelttkgpfkvycvm.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.watipej760.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.cedesi6978.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.vohelem576.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.sikoyo3159.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.kopen87949.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.tecobo5568.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.uh6wzyncw9.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+//https://love.wolayi7869.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 ];
 
 // 🔥 แยก 2 URL
