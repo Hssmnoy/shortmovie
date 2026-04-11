@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "title": "หมอเทวดาท่าจะดื้อ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b21c054aeb63ef24d1b3129b5c83650b.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1204",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/94ecf508-3999-4ac3-8551-cfb2f5326860/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "สวรรค์ส่งลูกสาวมาให้โชค",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/2e276a7e1cd85ab00be1bfb545823025.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1203",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/834e5221-e82b-4cf6-9dfd-d99029939587/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "เปย์ไม่ยั้งชีวิตผงาด",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/1f9a274ea877d221c9cb799a4f6df914.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1189",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1777afb1-2a6a-4879-ba6d-78a0d9f19689/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ศึกสมรภูมิอัคคีและเหมันต์",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/14f5114a92d2d62e158d42345c594dc5.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1188",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1185af91-dc4b-482b-9d01-020982c99201/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "พลิกเกมสู่โหมดเทพ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e6fc556ebcc5ae917f0649f59ef98b03.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1187",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/05e32b25-57ba-424f-b0b7-6497e4e22878/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  }
+]
