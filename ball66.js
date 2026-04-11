@@ -17,6 +17,47 @@ const urls = [
 
 const regex = /src\s*=\s*'([^']+)'.*?loadPlayer\('([^']+)'\)/gs;
 
+async function checkStream(url) {
+  try {
+    const res = await axios.get(url, {
+      timeout: 8000,
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
+        Referer: "https://embed-xs.bananacake.org/"
+      },
+      validateStatus: () => true
+    });
+
+    return res.status === 200 && res.data.includes("#EXTM3U");
+  } catch {
+    return false;
+  }
+}
+
+async function getWorkingStreams(id) {
+  const origins = ["lx-origin", "vx-origin"];
+  const quality = "_720"; // 🔥 เอา 720 พอ (ไม่รก + เร็ว)
+
+  const servers = [];
+
+  for (const origin of origins) {
+    for (let i = 0; i < BASES.length; i++) {
+      const base = BASES[i];
+      const url = `${base}/${origin}/${id}${quality}/chunks.m3u8`;
+
+      if (await checkStream(url)) {
+        servers.push({
+          name: origin === "lx-origin" ? "🟢 LX" : "🔵 VX",
+          url
+        });
+      }
+    }
+  }
+
+  return servers;
+}
+
 async function main() {
   const map = {};
 
@@ -37,19 +78,12 @@ async function main() {
       if (!map[id]) {
         console.log("⏳", id);
 
-        const qualities = ["_720", "_480"];
-        const servers = [];
+        const servers = await getWorkingStreams(id);
 
-        // 🔥 ไม่เช็ค → สร้างทุกลิงก์
-        qualities.forEach(q => {
-          BASES.forEach((base, idx) => {
-            servers.push({
-              name: `${q.replace("_", "")} ${idx === 0 ? "Main" : `Backup ${idx}`}`,
-              url: `${base}/lx-origin/${id}${q}/chunks.m3u8`
-            });
-          });
-        });
-
+          if (servers.length === 0) {
+          console.log("❌", id);
+          continue;
+          }
         map[id] = {
           title: id,
           group: groupName,
