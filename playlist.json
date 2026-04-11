@@ -5,11 +5,11 @@
     "logo": "https://api.bananamuffin.org/images/png/epl-3.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/epl-3_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/epl-3_720/chunks.m3u8"
       }
     ]
@@ -20,11 +20,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-spotv.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8"
       }
     ]
@@ -35,11 +35,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-spotv2.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8"
       }
     ]
@@ -50,11 +50,11 @@
     "logo": "https://api.bananamuffin.org/images/png/th-monomax01.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8"
       }
     ]
@@ -65,11 +65,11 @@
     "logo": "https://api.bananamuffin.org/images/png/th-monomax01bkp.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8"
       }
     ]
@@ -80,11 +80,11 @@
     "logo": "https://api.bananamuffin.org/images/png/th-monomax02.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8"
       }
     ]
@@ -95,11 +95,11 @@
     "logo": "https://api.bananamuffin.org/images/png/th-monomax02bkp.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8"
       }
     ]
@@ -110,12 +110,42 @@
     "logo": "https://api.bananamuffin.org/images/png/th-monomax02eng.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/th-monomax02eng_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax02eng_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "th-monomax03",
+    "group": "🏟️ กีฬา",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax03.png",
+    "servers": [
+      {
+        "name": "🟢 LX (720)",
+        "url": "https://love.verowo7190.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8"
+      },
+      {
+        "name": "🟢 LX (720)",
+        "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "th-monomax03bkp",
+    "group": "🏟️ กีฬา",
+    "logo": "https://api.bananamuffin.org/images/png/th-monomax03bkp.png",
+    "servers": [
+      {
+        "name": "🟢 LX (720)",
+        "url": "https://love.verowo7190.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8"
+      },
+      {
+        "name": "🟢 LX (720)",
+        "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8"
       }
     ]
   },
@@ -125,11 +155,7 @@
     "logo": "https://api.bananamuffin.org/images/png/th-tsporthd1.png",
     "servers": [
       {
-        "name": "🟢 LX",
-        "url": "https://love.verowo7190.workers.dev/lx-origin/th-tsporthd1_720/chunks.m3u8"
-      },
-      {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-tsporthd1_720/chunks.m3u8"
       }
     ]
@@ -140,11 +166,11 @@
     "logo": "https://api.bananamuffin.org/images/png/th-tsporthd2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/th-tsporthd2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-tsporthd2_720/chunks.m3u8"
       }
     ]
@@ -155,11 +181,11 @@
     "logo": "https://api.bananamuffin.org/images/png/th-tsporthd3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8"
       }
     ]
@@ -170,11 +196,11 @@
     "logo": "https://api.bananamuffin.org/images/png/epl-bein1.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8"
       }
     ]
@@ -185,11 +211,11 @@
     "logo": "https://api.bananamuffin.org/images/png/epl-bein2.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8"
       }
     ]
@@ -200,11 +226,11 @@
     "logo": "https://api.bananamuffin.org/images/png/epl-bein3.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8"
       }
     ]
@@ -215,11 +241,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-golf2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8"
       }
     ]
@@ -230,11 +256,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-tennis.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-tennis_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-tennis_720/chunks.m3u8"
       }
     ]
@@ -245,11 +271,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-tsport1.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8"
       }
     ]
@@ -260,11 +286,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-tsport2.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8"
       }
     ]
@@ -275,11 +301,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-tsport3.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8"
       }
     ]
@@ -290,11 +316,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-tsport5.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8"
       }
     ]
@@ -305,11 +331,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-tsport7.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8"
       }
     ]
@@ -320,11 +346,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-tsports.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8"
       }
     ]
@@ -335,11 +361,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-attheraces.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-attheraces_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-attheraces_720/chunks.m3u8"
       }
     ]
@@ -350,11 +376,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-btsport1hd.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8"
       }
     ]
@@ -365,11 +391,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-btsport1hdbkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-btsport1hdbkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-btsport1hdbkp_720/chunks.m3u8"
       }
     ]
@@ -380,11 +406,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-btsport2hd.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8"
       }
     ]
@@ -395,11 +421,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-btsport2hdbkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-btsport2hdbkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-btsport2hdbkp_720/chunks.m3u8"
       }
     ]
@@ -410,11 +436,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-btsport3hd.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8"
       }
     ]
@@ -425,12 +451,27 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-btsport3hdbkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-btsport3hdbkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-btsport3hdbkp_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "uk-espn",
+    "group": "🏟️ กีฬา",
+    "logo": "https://api.bananamuffin.org/images/png/uk-espn.png",
+    "servers": [
+      {
+        "name": "🔵 VX (720)",
+        "url": "https://love.verowo7190.workers.dev/vx-origin/uk-espn_720/chunks.m3u8"
+      },
+      {
+        "name": "🔵 VX (720)",
+        "url": "https://love.bebin98399.workers.dev/vx-origin/uk-espn_720/chunks.m3u8"
       }
     ]
   },
@@ -440,11 +481,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-premiersports.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-premiersports_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-premiersports_720/chunks.m3u8"
       }
     ]
@@ -455,11 +496,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-premiersports2.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-premiersports2_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-premiersports2_720/chunks.m3u8"
       }
     ]
@@ -470,11 +511,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-action.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-action_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-action_720/chunks.m3u8"
       }
     ]
@@ -485,11 +526,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-arena.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-arena_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-arena_720/chunks.m3u8"
       }
     ]
@@ -500,11 +541,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-cricket.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-cricket_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-cricket_720/chunks.m3u8"
       }
     ]
@@ -515,11 +556,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-epl.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-epl_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-epl_720/chunks.m3u8"
       }
     ]
@@ -530,11 +571,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-f1.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-f1_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-f1_720/chunks.m3u8"
       }
     ]
@@ -545,11 +586,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-football.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-football_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-football_720/chunks.m3u8"
       }
     ]
@@ -560,11 +601,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-golf.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-golf_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-golf_720/chunks.m3u8"
       }
     ]
@@ -575,11 +616,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-mainevent.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-mainevent_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-mainevent_720/chunks.m3u8"
       }
     ]
@@ -590,11 +631,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-mix.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-mix_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-mix_720/chunks.m3u8"
       }
     ]
@@ -605,11 +646,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-news.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-news_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-news_720/chunks.m3u8"
       }
     ]
@@ -620,11 +661,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports-plus.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports-plus_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports-plus_720/chunks.m3u8"
       }
     ]
@@ -635,11 +676,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports1bkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports1bkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports1bkp_720/chunks.m3u8"
       }
     ]
@@ -650,11 +691,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports2bkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports2bkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports2bkp_720/chunks.m3u8"
       }
     ]
@@ -665,11 +706,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports4bkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports4bkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports4bkp_720/chunks.m3u8"
       }
     ]
@@ -680,11 +721,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysports5bkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysports5bkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysports5bkp_720/chunks.m3u8"
       }
     ]
@@ -695,11 +736,11 @@
     "logo": "https://api.bananamuffin.org/images/png/uk-skysportsf1bkp.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/uk-skysportsf1bkp_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/uk-skysportsf1bkp_720/chunks.m3u8"
       }
     ]
@@ -710,11 +751,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-cbssn.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-cbssn_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-cbssn_720/chunks.m3u8"
       }
     ]
@@ -725,11 +766,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-espn1.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-espn1_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-espn1_720/chunks.m3u8"
       }
     ]
@@ -740,11 +781,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-espn2.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-espn2_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-espn2_720/chunks.m3u8"
       }
     ]
@@ -755,11 +796,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-foxsports1.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-foxsports1_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-foxsports1_720/chunks.m3u8"
       }
     ]
@@ -770,11 +811,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-foxsports2.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-foxsports2_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-foxsports2_720/chunks.m3u8"
       }
     ]
@@ -785,11 +826,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-nba.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-nba_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-nba_720/chunks.m3u8"
       }
     ]
@@ -800,11 +841,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-nbcgolf.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-nbcgolf_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-nbcgolf_720/chunks.m3u8"
       }
     ]
@@ -815,11 +856,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-nbcsports.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-nbcsports_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-nbcsports_720/chunks.m3u8"
       }
     ]
@@ -830,11 +871,11 @@
     "logo": "https://api.bananamuffin.org/images/png/us-nfl.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/us-nfl_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/us-nfl_720/chunks.m3u8"
       }
     ]
@@ -845,11 +886,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-fox503.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-fox503_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-fox503_720/chunks.m3u8"
       }
     ]
@@ -860,11 +901,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-fox504.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-fox504_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-fox504_720/chunks.m3u8"
       }
     ]
@@ -875,11 +916,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-fox505.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-fox505_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-fox505_720/chunks.m3u8"
       }
     ]
@@ -890,11 +931,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-fox506.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-fox506_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-fox506_720/chunks.m3u8"
       }
     ]
@@ -905,11 +946,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-fox507.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-fox507_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-fox507_720/chunks.m3u8"
       }
     ]
@@ -920,11 +961,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-racing.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-racing_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-racing_720/chunks.m3u8"
       }
     ]
@@ -935,11 +976,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-skyracing1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-skyracing1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-skyracing1_720/chunks.m3u8"
       }
     ]
@@ -950,11 +991,11 @@
     "logo": "https://api.bananamuffin.org/images/png/au-skyracing2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8"
       }
     ]
@@ -965,11 +1006,11 @@
     "logo": "https://api.bananamuffin.org/images/png/ca-tsn1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8"
       }
     ]
@@ -980,11 +1021,11 @@
     "logo": "https://api.bananamuffin.org/images/png/ca-tsn2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8"
       }
     ]
@@ -995,11 +1036,11 @@
     "logo": "https://api.bananamuffin.org/images/png/ca-tsn4.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/ca-tsn4_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/ca-tsn4_720/chunks.m3u8"
       }
     ]
@@ -1010,11 +1051,11 @@
     "logo": "https://api.bananamuffin.org/images/png/ca-tsn5.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/ca-tsn5_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/ca-tsn5_720/chunks.m3u8"
       }
     ]
@@ -1025,11 +1066,11 @@
     "logo": "https://api.bananamuffin.org/images/png/fr-bein1hd.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/fr-bein1hd_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/fr-bein1hd_720/chunks.m3u8"
       }
     ]
@@ -1040,11 +1081,11 @@
     "logo": "https://api.bananamuffin.org/images/png/fr-bein2hd.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/fr-bein2hd_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/fr-bein2hd_720/chunks.m3u8"
       }
     ]
@@ -1055,11 +1096,11 @@
     "logo": "https://api.bananamuffin.org/images/png/fr-bein3hd.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/fr-bein3hd_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/fr-bein3hd_720/chunks.m3u8"
       }
     ]
@@ -1070,11 +1111,11 @@
     "logo": "https://api.bananamuffin.org/images/png/de-sportdigital.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/de-sportdigital_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/de-sportdigital_720/chunks.m3u8"
       }
     ]
@@ -1085,11 +1126,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-arena1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-arena1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-arena1_720/chunks.m3u8"
       }
     ]
@@ -1100,11 +1141,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-arena2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-arena2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-arena2_720/chunks.m3u8"
       }
     ]
@@ -1115,11 +1156,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-astro-football.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-astro-football_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-astro-football_720/chunks.m3u8"
       }
     ]
@@ -1130,11 +1171,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-astro-grandstand.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-astro-grandstand_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-astro-grandstand_720/chunks.m3u8"
       }
     ]
@@ -1145,11 +1186,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-astro-sportsplus.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-astro-sportsplus_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-astro-sportsplus_720/chunks.m3u8"
       }
     ]
@@ -1160,11 +1201,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-bein1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-bein1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-bein1_720/chunks.m3u8"
       }
     ]
@@ -1175,11 +1216,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-bein2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-bein2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-bein2_720/chunks.m3u8"
       }
     ]
@@ -1190,11 +1231,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-bein3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-bein3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-bein3_720/chunks.m3u8"
       }
     ]
@@ -1205,11 +1246,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-nbcgolf.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-nbcgolf_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-nbcgolf_720/chunks.m3u8"
       }
     ]
@@ -1220,11 +1261,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-premiersports.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8"
       }
     ]
@@ -1235,11 +1276,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-spotv1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8"
       }
     ]
@@ -1250,11 +1291,11 @@
     "logo": "https://api.bananamuffin.org/images/png/my-spotv2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8"
       }
     ]
@@ -1265,11 +1306,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-espn1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8"
       }
     ]
@@ -1280,11 +1321,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-espn2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8"
       }
     ]
@@ -1295,11 +1336,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-espn3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-espn3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-espn3_720/chunks.m3u8"
       }
     ]
@@ -1310,11 +1351,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-espn4.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-espn4_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-espn4_720/chunks.m3u8"
       }
     ]
@@ -1325,11 +1366,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-espn5.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-espn5_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-espn5_720/chunks.m3u8"
       }
     ]
@@ -1340,11 +1381,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-espn6.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8"
       }
     ]
@@ -1355,11 +1396,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-ziggosport1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-ziggosport1_720/chunks.m3u8"
       }
     ]
@@ -1370,11 +1411,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8"
       }
     ]
@@ -1385,11 +1426,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8"
       }
     ]
@@ -1400,11 +1441,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport4.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-ziggosport4_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-ziggosport4_720/chunks.m3u8"
       }
     ]
@@ -1415,11 +1456,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport5.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8"
       }
     ]
@@ -1430,11 +1471,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nl-ziggosport6.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nl-ziggosport6_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nl-ziggosport6_720/chunks.m3u8"
       }
     ]
@@ -1445,11 +1486,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport1_720/chunks.m3u8"
       }
     ]
@@ -1460,11 +1501,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport2_720/chunks.m3u8"
       }
     ]
@@ -1475,11 +1516,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport3_720/chunks.m3u8"
       }
     ]
@@ -1490,11 +1531,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport4.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8"
       }
     ]
@@ -1505,11 +1546,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport5.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport5_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport5_720/chunks.m3u8"
       }
     ]
@@ -1520,11 +1561,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport6.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport6_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport6_720/chunks.m3u8"
       }
     ]
@@ -1535,11 +1576,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport7.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport7_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport7_720/chunks.m3u8"
       }
     ]
@@ -1550,11 +1591,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport8.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport8_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport8_720/chunks.m3u8"
       }
     ]
@@ -1565,11 +1606,11 @@
     "logo": "https://api.bananamuffin.org/images/png/nz-skysport9.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/nz-skysport9_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/nz-skysport9_720/chunks.m3u8"
       }
     ]
@@ -1580,11 +1621,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-bein1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-bein1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-bein1_720/chunks.m3u8"
       }
     ]
@@ -1595,11 +1636,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-bein10.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-bein10_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-bein10_720/chunks.m3u8"
       }
     ]
@@ -1610,11 +1651,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-bein2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-bein2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-bein2_720/chunks.m3u8"
       }
     ]
@@ -1625,11 +1666,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-bein7.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8"
       }
     ]
@@ -1640,11 +1681,11 @@
     "logo": "https://api.bananamuffin.org/images/png/ru-matchfutbol1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/ru-matchfutbol1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/ru-matchfutbol1_720/chunks.m3u8"
       }
     ]
@@ -1655,11 +1696,11 @@
     "logo": "https://api.bananamuffin.org/images/png/ru-matchfutbol2.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/ru-matchfutbol2_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/ru-matchfutbol2_720/chunks.m3u8"
       }
     ]
@@ -1670,11 +1711,11 @@
     "logo": "https://api.bananamuffin.org/images/png/ru-matchfutbol3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/ru-matchfutbol3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/ru-matchfutbol3_720/chunks.m3u8"
       }
     ]
@@ -1685,12 +1726,27 @@
     "logo": "https://api.bananamuffin.org/images/png/sg-bein1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sg-bein1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sg-bein1_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "sg-bein2",
+    "group": "🏟️ กีฬา",
+    "logo": "https://api.bananamuffin.org/images/png/sg-bein2.png",
+    "servers": [
+      {
+        "name": "🟢 LX (720)",
+        "url": "https://love.verowo7190.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8"
+      },
+      {
+        "name": "🟢 LX (720)",
+        "url": "https://love.bebin98399.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8"
       }
     ]
   },
@@ -1700,11 +1756,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sg-bein3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8"
       }
     ]
@@ -1715,11 +1771,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sg-hubsport01.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8"
       }
     ]
@@ -1730,11 +1786,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sg-hubsport02.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8"
       }
     ]
@@ -1745,11 +1801,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sg-hubsport03.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sg-hubsport03_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sg-hubsport03_720/chunks.m3u8"
       }
     ]
@@ -1760,11 +1816,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sk-arena1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sk-arena1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sk-arena1_720/chunks.m3u8"
       }
     ]
@@ -1775,11 +1831,11 @@
     "logo": "https://api.bananamuffin.org/images/png/es-movistar-laliga1.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/es-movistar-laliga1_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/es-movistar-laliga1_720/chunks.m3u8"
       }
     ]
@@ -1790,11 +1846,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-monobkp.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-monobkp_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-monobkp_720/chunks.m3u8"
       }
     ]
@@ -1805,11 +1861,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-altv4.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-altv4_720/chunks.m3u8"
       }
     ]
@@ -1820,11 +1876,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-nbt.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8"
       }
     ]
@@ -1835,11 +1891,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-amarin.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-amarin_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-amarin_720/chunks.m3u8"
       }
     ]
@@ -1850,11 +1906,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-ch3.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8"
       }
     ]
@@ -1865,11 +1921,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-ch5.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8"
       }
     ]
@@ -1880,12 +1936,27 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-ch7.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "hd-ch8",
+    "group": "📺 ทั่วไป",
+    "logo": "https://api.bananamuffin.org/images/png/hd-ch8.png",
+    "servers": [
+      {
+        "name": "🟢 LX (480)",
+        "url": "https://love.verowo7190.workers.dev/lx-origin/hd-ch8_480/chunks.m3u8"
+      },
+      {
+        "name": "🟢 LX (480)",
+        "url": "https://love.bebin98399.workers.dev/lx-origin/hd-ch8_480/chunks.m3u8"
       }
     ]
   },
@@ -1895,11 +1966,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-gmmone.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-gmmone_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-gmmone_720/chunks.m3u8"
       }
     ]
@@ -1910,11 +1981,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-mcot.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8"
       }
     ]
@@ -1925,11 +1996,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-mono.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-mono_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-mono_720/chunks.m3u8"
       }
     ]
@@ -1940,11 +2011,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-pptv.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8"
       }
     ]
@@ -1955,11 +2026,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-thairath.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8"
       }
     ]
@@ -1970,11 +2041,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-tpbs.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8"
       }
     ]
@@ -1985,12 +2056,27 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-workpoint.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "sd-24u",
+    "group": "📺 ทั่วไป",
+    "logo": "https://api.bananamuffin.org/images/png/sd-24u.png",
+    "servers": [
+      {
+        "name": "🟢 LX (480)",
+        "url": "https://love.verowo7190.workers.dev/lx-origin/sd-24u_480/chunks.m3u8"
+      },
+      {
+        "name": "🟢 LX (480)",
+        "url": "https://love.bebin98399.workers.dev/lx-origin/sd-24u_480/chunks.m3u8"
       }
     ]
   },
@@ -2000,11 +2086,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-gmmchannel.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-gmmchannel_720/chunks.m3u8"
       }
     ]
@@ -2015,11 +2101,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-nation.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-nation_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-nation_720/chunks.m3u8"
       }
     ]
@@ -2030,11 +2116,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-new.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-new_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-new_720/chunks.m3u8"
       }
     ]
@@ -2045,11 +2131,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-tnn24.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8"
       }
     ]
@@ -2060,11 +2146,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-tptv.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-tptv_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-tptv_720/chunks.m3u8"
       }
     ]
@@ -2075,19 +2161,19 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-asianmore.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-asianmore_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-asianmore_720/chunks.m3u8"
       }
     ]
@@ -2098,19 +2184,19 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-dreamworks.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-dreamworks_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-dreamworks_720/chunks.m3u8"
       }
     ]
@@ -2121,11 +2207,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-axn.png",
     "servers": [
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-axn_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-axn_720/chunks.m3u8"
       }
     ]
@@ -2136,19 +2222,19 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-tfilm.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/hd-tfilm_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/hd-tfilm_720/chunks.m3u8"
       }
     ]
@@ -2159,11 +2245,11 @@
     "logo": "https://api.bananamuffin.org/images/png/hd-warnertv.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8"
       }
     ]
@@ -2174,19 +2260,19 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-filmasia.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/sd-filmasia_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/sd-filmasia_720/chunks.m3u8"
       }
     ]
@@ -2197,19 +2283,19 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-moviehits.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/sd-moviehits_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/sd-moviehits_720/chunks.m3u8"
       }
     ]
@@ -2220,19 +2306,19 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-series.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/sd-series_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/sd-series_720/chunks.m3u8"
       }
     ]
@@ -2243,19 +2329,19 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-thaifilm.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/sd-thaifilm_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/sd-thaifilm_720/chunks.m3u8"
       }
     ]
@@ -2266,11 +2352,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-asianfood.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8"
       }
     ]
@@ -2281,19 +2367,19 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-expsci.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.verowo7190.workers.dev/vx-origin/sd-expsci_720/chunks.m3u8"
       },
       {
-        "name": "🔵 VX",
+        "name": "🔵 VX (720)",
         "url": "https://love.bebin98399.workers.dev/vx-origin/sd-expsci_720/chunks.m3u8"
       }
     ]
@@ -2304,11 +2390,11 @@
     "logo": "https://api.bananamuffin.org/images/png/sd-discovery.png",
     "servers": [
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.verowo7190.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8"
       },
       {
-        "name": "🟢 LX",
+        "name": "🟢 LX (720)",
         "url": "https://love.bebin98399.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8"
       }
     ]
