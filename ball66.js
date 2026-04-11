@@ -37,25 +37,47 @@ async function checkStream(url) {
 
 async function getWorkingStreams(id) {
   const origins = ["lx-origin", "vx-origin"];
-  const quality = "_720"; // 🔥 เอา 720 พอ (ไม่รก + เร็ว)
 
-  const servers = [];
+  // 🔥 ลอง 720 ก่อน
+  let servers720 = [];
 
   for (const origin of origins) {
     for (let i = 0; i < BASES.length; i++) {
       const base = BASES[i];
-      const url = `${base}/${origin}/${id}${quality}/chunks.m3u8`;
+      const url = `${base}/${origin}/${id}_720/chunks.m3u8`;
 
       if (await checkStream(url)) {
-        servers.push({
-          name: origin === "lx-origin" ? "🟢 LX" : "🔵 VX",
+        servers720.push({
+          name: origin === "lx-origin" ? "🟢 LX (720)" : "🔵 VX (720)",
           url
         });
       }
     }
   }
 
-  return servers;
+  // 🔥 ถ้ามี 720 → ใช้เลย
+  if (servers720.length > 0) {
+    return servers720;
+  }
+
+  // ❗ ไม่มี 720 → fallback 480
+  let servers480 = [];
+
+  for (const origin of origins) {
+    for (let i = 0; i < BASES.length; i++) {
+      const base = BASES[i];
+      const url = `${base}/${origin}/${id}_480/chunks.m3u8`;
+
+      if (await checkStream(url)) {
+        servers480.push({
+          name: origin === "lx-origin" ? "🟢 LX (480)" : "🔵 VX (480)",
+          url
+        });
+      }
+    }
+  }
+
+  return servers480;
 }
 
 async function main() {
