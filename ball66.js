@@ -8,8 +8,6 @@ const BASES = [
   "https://love.bebin98399.workers.dev"
 
 //https://love.sayob28681.workers.dev
-//https://love.bebin98399.workers.dev
-//https://love.tivov68423.workers.dev
 //https://love.tivov68423.workers.dev
 //https://love.pifipa2974.workers.dev
 //https://love-test.fkuqelttkgpfkvycvm.workers.dev
@@ -20,8 +18,8 @@ const BASES = [
 //https://love.kopen87949.workers.dev
 //https://love.tecobo5568.workers.dev
 //https://love.uh6wzyncw9.workers.dev
-//https://love.verowo7190.workers.dev
 //https://love.wolayi7869.workers.dev
+  
 ];
 
 // 🔥 แยก 2 URL
