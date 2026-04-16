@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "title": "เจ้าบ่าวสลับชะตา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/bf19cff9f18083cfedaff1e9c18e964b.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1210",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/6a6027e6-73d9-4cff-af55-bb26b1867b81/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
+  },
+  {
+    "title": "สุดยอดนักฝึกสัตว์อสูรเนโคร",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f6b3848433d2ca631cbe9ea965407e0c.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1208",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3b3cac78-30d0-4c40-ab24-75d72c3ce0f1/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
+  }
+]
