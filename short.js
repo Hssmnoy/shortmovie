@@ -333,19 +333,28 @@ oldSet.add(m.link);
       }
     }
 
-    const safe = cat.name
-  .replace(/\s+\d+$/, "")   // 🔥 ตัดเลขท้าย
-  .replace(/[\\/:*?"<>|]/g, "");
-    
-    await fs.writeFile(`json/${safe}.json`, JSON.stringify(results, null, 2));
-
     const cleanName = cat.name.replace(/\s+\d+$/, "");
 
-await saveM3U(cleanName, results);
+const safe = cleanName
+  .replace(/[\\/:*?"<>|]/g, "");
 
-    console.log("💾 saved:", cat.name);
-  }
+// ✅ เอาทั้งข้อมูลเก่า + ใหม่ ของหมวดนี้
+const categoryData = allResults.filter(
+  item => item.group.trim() === cleanName.trim()
+);
 
+// ✅ save json แยกหมวด
+await fs.writeFile(
+  `json/${safe}.json`,
+  JSON.stringify(categoryData, null, 2)
+);
+
+// ✅ save m3u แยกหมวด
+await saveM3U(cleanName, categoryData);
+
+console.log("💾 saved:", cat.name, categoryData.length);
+}
+  
   // 🔥 กันลิงก์ซ้ำ
 const seen = new Set();
 const unique = [];
