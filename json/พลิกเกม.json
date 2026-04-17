@@ -1129,5 +1129,57 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "มังกรหงส์มงคล",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e72d0a8d3bc636133840d2caabc65f44.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1226",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/0d1395de-aecd-4f8c-a78d-5f685da6d0b4/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "หวนคืนรอยแแค้นปี84",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/24571042ad049bc2e5d9f51f12fd90da.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1223",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/7355e122-94af-42de-b929-099ef6211c4f/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ชีวิตใหม่คุณแม่สวยรวยเชิด",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e5658a11fd59757c84a225bbb215b5db.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1221",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/5aed78b9-40d3-4536-9c92-8c29a49e2c9e/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ล่าขุมทรัพย์ไปกับตาวิเศษ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/2a360880be8ed6c78864c7bdbb274afa.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1219",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/20aecf6d-92d4-48e4-8e22-21b7300521c2/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]

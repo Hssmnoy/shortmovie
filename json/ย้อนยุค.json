@@ -1389,5 +1389,18 @@
       }
     ],
     "group": "ย้อนยุค"
+  },
+  {
+    "title": "กลเกมรักพิทักษ์แคว้น",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e44ffa4f82adf3e5b344bddc78ac70a9.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1218",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/52fb44c6-3a05-40b7-8c5f-b59e38dc6f9a/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
   }
 ]
