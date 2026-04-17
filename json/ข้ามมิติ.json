@@ -1,15 +1,1 @@
-[
-  {
-    "title": "อลวนกระเตงลูกข้ามยุค",
-    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/5f165864860d602dbb51ffdf80da5537.webp",
-    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1217",
-    "servers": [
-      {
-        "name": "M3U8",
-        "type": "hls",
-        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/ce9c36f3-1c9c-4cce-9de0-e877a7cb7033/playlist.m3u8"
-      }
-    ],
-    "group": "ข้ามมิติ"
-  }
-]
+[]
