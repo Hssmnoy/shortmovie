@@ -198,7 +198,7 @@ const safe = cleanCategory
 let content = "#EXTM3U\n";
 
 for (const m of movies) {
-  content += `#EXTINF:-1 tvg-logo="${m.logo}" group-title="${cleanCategory}",${m.title}\n`;
+  content += `#EXTINF:-1 tvg-logo="${m.poster || ''}" group-title="${cleanCategory}",${m.title}\n`;
     content += `${m.servers[0].url}\n\n`;
   }
 
@@ -210,7 +210,7 @@ async function saveAllM3U(movies) {
   let content = "#EXTM3U\n";
 
   for (const m of movies) {
-    content += `#EXTINF:-1 tvg-logo="${m.logo}" group-title="${m.group}",${m.title}\n`;
+    content += `#EXTINF:-1 tvg-logo="${m.poster || ''}" group-title="${m.group}",${m.title}\n`;
     content += `${m.servers[0].url}\n\n`;
   }
 
