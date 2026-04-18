@@ -1402,5 +1402,18 @@
       }
     ],
     "group": "ย้อนยุค"
+  },
+  {
+    "title": "ดอกไม้ในวงวนอำนาจ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/1a5868c5e2f8951a6ab9d44c613e80cf.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1237",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b07cbfc2-3c0f-4c12-b69e-9cb8ff5a3c26/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
   }
 ]

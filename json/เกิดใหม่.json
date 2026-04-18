@@ -609,5 +609,18 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "บทกวีล่าข้ามเวลา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e23c56760a182ac28d478288d3eec32e.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1235",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f90457b1-9be0-48e3-8c24-b6c961a75508/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]

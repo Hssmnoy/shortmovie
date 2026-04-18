@@ -4184,5 +4184,18 @@
       }
     ],
     "group": "ความรัก"
+  },
+  {
+    "title": "ห้ามใจไม่ให้รัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4d17e288ad61892bd762f2944c2f33a6.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1238",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/d55793d6-6116-433b-94ae-73ca763bd8f5/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
   }
 ]

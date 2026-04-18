@@ -1129,5 +1129,31 @@
       }
     ],
     "group": "แก้แค้น"
+  },
+  {
+    "title": "เด็กใหม่สายมาเฟีย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/38058bc1c44c4067b2c3c9684f1ca991.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1236",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/610da7b8-3664-453f-a012-34a31042aaab/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
+  },
+  {
+    "title": "รักเป็นเหยื่อล่อ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a73099188069982a6d206e3e5d0b9528.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1234",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/f64727db-7e17-4183-ac9c-4e28238500d2/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
   }
 ]
