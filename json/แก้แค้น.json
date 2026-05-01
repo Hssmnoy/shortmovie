@@ -1155,5 +1155,83 @@
       }
     ],
     "group": "แก้แค้น"
+  },
+  {
+    "title": "เสียใจเมื่อสาย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b6cff027d5fbd2f1b42d42371f00a819.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1293",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/46b05231-39a1-4e5d-9a22-63746c4b1c7e/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
+  },
+  {
+    "title": "เพลิงแค้นคุณหนูไฮโซ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/57b49b6d11d7f3f0662e24de1821ae6b.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1285",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3c01f503-01c7-4104-ab29-273e021a06c8/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
+  },
+  {
+    "title": "ไม่แย่งกันแต่ยืนข้างกัน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4474c6f833960bd2caeeef5cd9b1ed22.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1279",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/18d78621-5eeb-45b2-8c34-ba461064b005/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
+  },
+  {
+    "title": "บุปผาแห่งคำลวง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f354a9010614c8c343ffe038997d548a.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1269",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/383b6fb8-6d07-42c3-9905-91b2344d77a0/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
+  },
+  {
+    "title": "สองคุณหนูรวมพลังล้างแค้น",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/9a8135f7455a1fcb7b125d9974e1a69c.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1268",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b55b750a-ecbc-4999-81b8-5bd8db582955/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
+  },
+  {
+    "title": "มือปราบไร้เงา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/6c9c536aa67c59d7038331b618886489.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1242",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/5fcec30e-88fa-4a46-9c4e-cd98a59fa751/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
   }
 ]
