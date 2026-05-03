@@ -2,8 +2,7 @@ name: RY
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 3 * * *"
+  
 concurrency:
   group: ry-scraper
   cancel-in-progress: true
