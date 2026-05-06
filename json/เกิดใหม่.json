@@ -674,5 +674,31 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "ศึกสมองเดือดเด็ก8ขวบกู้ชาติ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a822739d61c71f58b6537ce9416f4418.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1347",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/fa76b89d-0142-4ef1-ab65-4cd7a28115f1/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
+  },
+  {
+    "title": "การหวนกลับของราชันย์เทพอนันต์",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/efd6fed18f28f5f5008bb789e1806bcf.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1342",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/dd84d02c-2c5b-4836-8252-67c7e866b74a/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]

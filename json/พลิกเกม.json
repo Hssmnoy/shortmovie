@@ -1493,5 +1493,96 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "ยอดลูกเขยหมื่นล้าน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/cf2a194f2d135523be232512b8a29130.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1365",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b05a79a6-d71b-4f8c-a2a0-24d2a93e5e49/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ราชากลับคืนบัลลังก์",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0a3a000b1b543dfb32889dd6f588c6e8.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1364",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/356af79c-0710-4015-b67f-1a3d76f66aa1/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ยมบาลสุดแกร่ง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/91a7ee7f2b688a666784d3a6c4825e8f.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1357",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/89f4babe-c7d1-4a07-b0d8-2725afd1609c/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "มังกรแกร่งพ้นคุก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f01ced41b28578b043aa2dc29a56fe19.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1344",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/46678e04-5a37-45d0-96dd-31d7ff693853/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ก่อนรักที่จะลงเอย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/d403703656e9ed700941433604192c2b.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1336",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/cabe7c70-1ec4-413d-a2b0-71bf3abd75ac/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "พ่อเลี้ยงลูกเงียบๆที่แท้คือเจ้าพ่อระดับตำนาน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b7348d482a2ca35479bb0439e40a62cb.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1334",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c29b4dd7-5790-4fe0-8091-065568f6b984/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ฉันเลือกเธอสาวอสูรระดับF",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/84993675897f065ab3f59bfbf4a03885.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1325",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/91381663-dcde-4d9e-8522-fd650733a9b6/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]
