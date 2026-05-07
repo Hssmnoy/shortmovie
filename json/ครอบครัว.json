@@ -167,5 +167,18 @@
       }
     ],
     "group": "ครอบครัว"
+  },
+  {
+    "title": "อุทิศเพื่อชาติพี่ชายเสียใจทั้งชีวิต",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/17de4ddb47894ab680fa516cad6218dc.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1373",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/8ce509ed-3150-4532-86ec-5d9fcda861dc/playlist.m3u8"
+      }
+    ],
+    "group": "ครอบครัว"
   }
 ]

@@ -16209,5 +16209,96 @@
       }
     ],
     "group": "แก้แค้น"
+  },
+  {
+    "title": "อุทิศเพื่อชาติพี่ชายเสียใจทั้งชีวิต",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/17de4ddb47894ab680fa516cad6218dc.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1373",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/8ce509ed-3150-4532-86ec-5d9fcda861dc/playlist.m3u8"
+      }
+    ],
+    "group": "ครอบครัว"
+  },
+  {
+    "title": "รักน้องซ้อนรักพี่",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/a45cebd8ad94aee95e00be780ac03bb4.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1370",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/77489a8d-1d44-4ec0-a67e-90e7dd7a0234/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "อิสรภาพในนามใบหย่า",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/225680d2c90ea47e2826844421ab641d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1371",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/8c87240e-db35-465d-8237-6535b256a2d9/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "เข้าใจผิดคิดว่าตัวเองเป็นคุณหนู",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e3b80be23e816b01b21888cf788f799d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1369",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/4a8b44a3-a705-477f-841b-b99ed6abc61b/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "เขามาจากห้วงรัตติกาล",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/5e3d1bc15085f39a14754d3474b638f3.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1372",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/018c400a-4cec-4886-b4b2-e608213c157f/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "องค์ชายสะดุดรัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f5d64fe009b46184aa5327997435452a.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1368",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/7e0b5675-ab05-4638-90fb-2c0fe55ffd34/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "เมื่อรักกลายเป็นแค้น",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/87137514a81ca65c99056f83b5f74520.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1367",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b3ca0d1e-33a7-4ebb-ba28-8be6f806e22e/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
   }
 ]
