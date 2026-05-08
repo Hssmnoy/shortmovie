@@ -1610,5 +1610,57 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "ตาพิเศษของคนส่งอาหาร",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/ed8b3ba69694b9deecf7379b9ad632ff.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1381",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/cc36310f-640d-4a0e-8f0c-e9ae5a118507/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ชะตาพลิกผันเศรษฐีข้ามคืน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/7a9b55e3dc656cd2ae2b695e2fbfd349.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1380",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/89969da3-7840-4029-9c63-e2ec8b206d9a/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ความอ่อนโยนที่ถูกพราก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/2c1c6197facb2400128f1ed51018c036.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1376",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1233b3f8-1078-4650-b94b-8ea53a315879/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "แผนรั่วฉบับทูตนรก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/5684053ed969ff0908a2da141abe6740.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1375",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/42198876-a6aa-41d0-a28d-d958c1ca7331/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]

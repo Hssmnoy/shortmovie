@@ -869,5 +869,18 @@
       }
     ],
     "group": "ข้ามมิติ"
+  },
+  {
+    "title": "นางร้ายพาพลิกผันโชคชะตา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/eefab20bac7aad2f08cd32d3ff7d45e6.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1379",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3b07acf2-6e3f-4e29-af12-7eb88c3b9829/playlist.m3u8"
+      }
+    ],
+    "group": "ข้ามมิติ"
   }
 ]

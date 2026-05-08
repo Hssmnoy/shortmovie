@@ -700,5 +700,18 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "หวนชาติพิชิตคนทรยศ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/177f6b436f8c47282f86537237c2bd70.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1378",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b483d476-d21d-4377-a5a3-22e5676e8b7e/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]

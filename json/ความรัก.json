@@ -4834,5 +4834,31 @@
       }
     ],
     "group": "ความรัก"
+  },
+  {
+    "title": "จันทราเร้นแค้น",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0b0b843f509610285f625fa25859839e.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1377",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/99ea1326-8f17-41a7-97a3-af5c8da50990/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "รักลับฉบับคุณเลขา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/9543146eb748f66cbce2f2e5cd0640bc.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1374",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/d0cadc73-3e08-463c-b6e9-26bae8b03033/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
   }
 ]
