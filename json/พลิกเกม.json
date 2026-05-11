@@ -1688,5 +1688,44 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "กล้าทำร้ายน้องฉันนายจบแล้ว",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/bd66202d88b8a4e613e17d090c71294e.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1399",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e3e4886d-be4c-48fa-ac88-df6f4155a44b/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ลูกฉันใครอย่าแตะ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/1e8efb3cad0ad10b9e8ffa101af77277.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1395",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/b804dd0b-73e5-402e-872e-bbd87d65c90b/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "การตื่นรู้ของทายาทเจ้าสาว",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f413a22796d29d27c5cccebd9fe81a22.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1393",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/d55ecd5e-1d1e-4423-afe6-0c16f58890c1/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]

@@ -4938,5 +4938,31 @@
       }
     ],
     "group": "ความรัก"
+  },
+  {
+    "title": "เผลอรักเมียสัญญา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f095b9bbefe1ca1e367d9f6c80b2aa63.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1397",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e31e3700-b84e-4ecc-82aa-201c0bd9cdac/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "ถลำรักในโลกของเธอ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/abebfdca3ea227a7ebeda9bfd861dd3f.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1394",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/86f4d837-094d-4c89-ac62-7d8c5ceaec94/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
   }
 ]

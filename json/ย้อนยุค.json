@@ -1649,5 +1649,31 @@
       }
     ],
     "group": "ย้อนยุค"
+  },
+  {
+    "title": "ท่านอาจารย์ลูกศิษย์ท่านป่วนอีกแล้ว",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/86e9336bf73f0a59ad90fef6c8487da8.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1396",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/ba3bc4e0-0230-473b-a39b-c4bb3e171d10/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "ล้มบังลังก์ไปกับเจ้า",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b8310b0899b20898766f34da8da533fc.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1392",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/28f6b214-44e8-4adc-b2f8-b1771051665a/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
   }
 ]
