@@ -1727,5 +1727,18 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "เห็นใจแต่ได้ทรยศ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f12c61fe7f63a730bcb69092f2271108.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1406",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/a30e1feb-a0ab-4842-b805-5afe1a4a0a02/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]
