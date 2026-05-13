@@ -713,5 +713,18 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "เทพลงโลกฟื้นศักดิ์ศรีตระกูล",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/7fe0a0674d26302d276861dda52687c8.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1408",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/9db35976-6ede-4d7e-b429-9d0a2d7686a5/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]

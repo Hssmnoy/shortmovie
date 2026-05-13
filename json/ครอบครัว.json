@@ -206,5 +206,18 @@
       }
     ],
     "group": "ครอบครัว"
+  },
+  {
+    "title": "ดวงดาวในห้วงคำนึง",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/d9fffaec1876237feb3e80ed7ac6c379.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1413",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/601fec1e-87df-44c7-97b9-3fa15a4cdecd/playlist.m3u8"
+      }
+    ],
+    "group": "ครอบครัว"
   }
 ]

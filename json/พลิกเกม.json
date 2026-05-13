@@ -1740,5 +1740,31 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "จากนักโทษสู่อ่องซหนาน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/bf9d621ca400f45091188ae7064fc89e.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1409",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/a3432e2d-7c5e-4a4f-b053-90cb29b37c47/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ประมุขเผ่าสาวแห่งแดนเถื่อน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/55b64616b45054bcbe70537a03a4d678.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1407",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/cadf7b4d-fca4-4af5-aec3-7debde18e4f3/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]
