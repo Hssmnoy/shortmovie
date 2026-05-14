@@ -1298,5 +1298,18 @@
       }
     ],
     "group": "แก้แค้น"
+  },
+  {
+    "title": "มังกรคลั่งสยบเรือนจำระดับsssss",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/85ea2b39a92c541c7c6f64a5a542a3e8.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1415",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/0ba1e951-7960-4c44-938c-51225dd46bbc/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
   }
 ]

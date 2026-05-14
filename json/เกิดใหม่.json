@@ -726,5 +726,31 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "รักนิรันดร์ข้ามยุค",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/def4ec59306c14a2627700399ee2f225.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1419",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/de3f097d-7802-4323-b566-c7bc7581e2b8/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
+  },
+  {
+    "title": "กลับชาติมารัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f385d7fa8f99030b9037f5f14f6031ca.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1418",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/da12f288-a887-461f-b016-fa9bacc4866b/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]

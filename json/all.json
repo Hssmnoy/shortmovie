@@ -16794,5 +16794,83 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "ไฟรักกลางรัตติกาล",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/273f251e8ee942b3d4160ed4d51621e1.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1417",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/bd34f041-9cab-4259-a277-bf12abf7da55/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "คู่กันวาสนา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e4cd1d0c955cdd3f115bbf5b90a3c230.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1416",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c49ef313-c70c-4242-9839-c0a762d57bd1/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "แต่งงานกับมหาเศรษฐีพร้อมกับลูก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4081c65b351c53ae83ec73feef8650c7.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1414",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/d118b2a2-84ad-4ce3-a97f-b6311ea12be6/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "รักนิรันดร์ข้ามยุค",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/def4ec59306c14a2627700399ee2f225.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1419",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/de3f097d-7802-4323-b566-c7bc7581e2b8/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
+  },
+  {
+    "title": "กลับชาติมารัก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f385d7fa8f99030b9037f5f14f6031ca.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1418",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/da12f288-a887-461f-b016-fa9bacc4866b/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
+  },
+  {
+    "title": "มังกรคลั่งสยบเรือนจำระดับsssss",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/85ea2b39a92c541c7c6f64a5a542a3e8.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1415",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/0ba1e951-7960-4c44-938c-51225dd46bbc/playlist.m3u8"
+      }
+    ],
+    "group": "แก้แค้น"
   }
 ]

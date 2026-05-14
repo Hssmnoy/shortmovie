@@ -5029,5 +5029,44 @@
       }
     ],
     "group": "ความรัก"
+  },
+  {
+    "title": "ไฟรักกลางรัตติกาล",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/273f251e8ee942b3d4160ed4d51621e1.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1417",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/bd34f041-9cab-4259-a277-bf12abf7da55/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "คู่กันวาสนา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/e4cd1d0c955cdd3f115bbf5b90a3c230.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1416",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c49ef313-c70c-4242-9839-c0a762d57bd1/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
+  },
+  {
+    "title": "แต่งงานกับมหาเศรษฐีพร้อมกับลูก",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/4081c65b351c53ae83ec73feef8650c7.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1414",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/d118b2a2-84ad-4ce3-a97f-b6311ea12be6/playlist.m3u8"
+      }
+    ],
+    "group": "ความรัก"
   }
 ]
