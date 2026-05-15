@@ -1701,5 +1701,18 @@
       }
     ],
     "group": "ย้อนยุค"
+  },
+  {
+    "title": "ท่านแม่ทัพฮูหยินหนีกลับบ้านแล้ว",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/d3eb525c677f41eb8f15709049aa50fb.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1425",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/4ce61469-3ed3-420a-80fc-48b64d7cea4f/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
   }
 ]
