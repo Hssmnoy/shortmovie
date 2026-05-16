@@ -752,5 +752,18 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "ชีวิตใหม่เจ้าพ่อ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/584b5bbe4eb757605173b845b1499113.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1430",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/e81c740e-b7d3-4706-8e93-8ea2b0883cca/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]

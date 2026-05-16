@@ -440,5 +440,31 @@
       }
     ],
     "group": "เทพเซียน"
+  },
+  {
+    "title": "หนึ่งกระบี่กู้แผ่นดิน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/105fbacc9b3f091eaf1cb9399dc1d533.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1432",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c6accc0d-e2be-4adf-ac3d-396b5c5a030a/playlist.m3u8"
+      }
+    ],
+    "group": "เทพเซียน"
+  },
+  {
+    "title": "วิถีเซียนเขียนชะตา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/6b89895ec0a5dade5006ed4080c95650.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1427",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/0f0c7488-6bfc-4637-a650-d8484aaebbe7/playlist.m3u8"
+      }
+    ],
+    "group": "เทพเซียน"
   }
 ]

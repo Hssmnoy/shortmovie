@@ -1714,5 +1714,18 @@
       }
     ],
     "group": "ย้อนยุค"
+  },
+  {
+    "title": "เทพนักรบพลิกชะตา",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/0e7c606b6784e8bf009bba4656181fff.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1431",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/1e198e55-c681-4fe2-9d67-737f4d474ae6/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
   }
 ]
