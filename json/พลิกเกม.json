@@ -1766,5 +1766,18 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "นายภารโรงสุดรวย",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/c223cb7d901ed688de982e54ee9abe07.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1341",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/10820c58-c02a-45c7-bfe8-3297fe759865/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]
