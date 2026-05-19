@@ -17171,5 +17171,83 @@
       }
     ],
     "group": "เกิดใหม่"
+  },
+  {
+    "title": "ความฝันล้มๆแล้งๆ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/6fe755dd26d561bc95731674303d4ebc.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1447",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/81359d54-6571-4ce3-9f2b-343d3d99ba63/playlist.m3u8"
+      }
+    ],
+    "group": "ซับไทย"
+  },
+  {
+    "title": "สัญญาสหายรบพิทักษ์ครอบครัวเพื่อน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b2bd02b135706e5071584f7d09708baa.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1445",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/bde71a23-3a8b-4291-9d62-c8aea76432d5/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "เลิกโง่แล้วราชากลับมาเทพ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/bf7534751f5f1f62e6084826655ed4db.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1444",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3fc364c7-d72c-48d3-9784-ea043c0b9cda/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ลูกชู้ผู้ทวงแค้นสู่ราชาใต้ดิน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/25ed4a67f4eb84322491077fc87d6e4d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1442",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3a3dad3d-76ad-4825-8398-c8aa3de01dbd/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "คุณหนูตัวปลอมจวนโหวขอหนีประหารเก้าชั่วโครต",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/f491028bedc239686077780039910f34.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1443",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/27aeb42b-65e2-4bee-a392-f027835e8aa6/playlist.m3u8"
+      }
+    ],
+    "group": "ย้อนยุค"
+  },
+  {
+    "title": "เกิดใหม่ครั้้งนี้ข้าไม่ขอรักท่าน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/1eeb580f88957df33b072424b8c1972e.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1446",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/c531a7ea-4ffc-41e9-a146-a80d3cb7ab3f/playlist.m3u8"
+      }
+    ],
+    "group": "เกิดใหม่"
   }
 ]

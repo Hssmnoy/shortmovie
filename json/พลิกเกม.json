@@ -1779,5 +1779,44 @@
       }
     ],
     "group": "พลิกเกม"
+  },
+  {
+    "title": "สัญญาสหายรบพิทักษ์ครอบครัวเพื่อน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/b2bd02b135706e5071584f7d09708baa.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1445",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/bde71a23-3a8b-4291-9d62-c8aea76432d5/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "เลิกโง่แล้วราชากลับมาเทพ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/bf7534751f5f1f62e6084826655ed4db.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1444",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3fc364c7-d72c-48d3-9784-ea043c0b9cda/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
+  },
+  {
+    "title": "ลูกชู้ผู้ทวงแค้นสู่ราชาใต้ดิน",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/25ed4a67f4eb84322491077fc87d6e4d.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1442",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/3a3dad3d-76ad-4825-8398-c8aa3de01dbd/playlist.m3u8"
+      }
+    ],
+    "group": "พลิกเกม"
   }
 ]

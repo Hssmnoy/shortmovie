@@ -3196,5 +3196,18 @@
       }
     ],
     "group": "ซับไทย"
+  },
+  {
+    "title": "ความฝันล้มๆแล้งๆ",
+    "poster": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/6fe755dd26d561bc95731674303d4ebc.webp",
+    "link": "https://www.xn--72c9ab1ec1bc6q.online/movie-article.php?id=1447",
+    "servers": [
+      {
+        "name": "M3U8",
+        "type": "hls",
+        "url": "https://hidden-unit-7e8b.hssmnoy.workers.dev/?url=https://stream.xn--72c9ab1ec1bc6q.xyz/81359d54-6571-4ce3-9f2b-343d3d99ba63/playlist.m3u8"
+      }
+    ],
+    "group": "ซับไทย"
   }
 ]
